@@ -1,7 +1,7 @@
 # Supported tags
 
-* `6.5.0`, `latest` - Splunk universal forwarder base image [Dockerfile](https://github.com/splunk/docker-splunk/blob/master/enterprise/Dockerfile)
-* `6.5.0-monitor` - Splunk universal forwarder with Docker Monitoring [Dockerfile](https://github.com/splunk/docker-itmonitoring/blob/master/Dockerfile)
+* `6.5.1`, `latest` - Splunk universal forwarder base image [Dockerfile](https://github.com/dayreiner/docker-splunk/blob/master/enterprise/Dockerfile)
+* `6.5.1-monitor` - Splunk universal forwarder with Docker Monitoring [Dockerfile](https://github.com/dayreiner/docker-itmonitoring/blob/master/Dockerfile)
 
 # What is the Splunk Universal Forwarder?
 
